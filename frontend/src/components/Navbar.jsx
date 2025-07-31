@@ -35,7 +35,7 @@ const Navbar = () => {
         <NavLink to="/about" className="hover:text-primary transition">About</NavLink>
         <NavLink to="/contact" className="hover:text-primary transition">Contact</NavLink>
         <a
-          href="https://care-mate-ci9f-37kxe99q8-rashi-gargs-projects.vercel.app"
+          href="https://care-mate-ci9f.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-red-500 text-white px-4 py-1 rounded-full text-sm hover:bg-red-600 transition shadow-md"
@@ -97,7 +97,7 @@ const Navbar = () => {
           <NavLink to="/about" onClick={toggleMobileMenu}>About</NavLink>
           <NavLink to="/contact" onClick={toggleMobileMenu}>Contact</NavLink>
           <a
-            href="https://care-mate-ci9f-37kxe99q8-rashi-gargs-projects.vercel.app"
+            href="https://care-mate-ci9f.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             onClick={toggleMobileMenu}
