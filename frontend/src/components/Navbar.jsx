@@ -97,7 +97,7 @@ const Navbar = () => {
           <NavLink to="/about" onClick={toggleMobileMenu}>About</NavLink>
           <NavLink to="/contact" onClick={toggleMobileMenu}>Contact</NavLink>
           <a
-            href="http://localhost:5173/"
+            href="care-mate-ci9f-37kxe99q8-rashi-gargs-projects.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             onClick={toggleMobileMenu}
